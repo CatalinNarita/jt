@@ -37,6 +37,7 @@ public class Calculator {
         print.accept(sub);
         print.accept(mul);
         print.accept(div);
+        System.out.println("master changes");
 
     }
 
