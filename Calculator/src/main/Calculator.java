@@ -38,6 +38,7 @@ public class Calculator {
         print.accept(mul);
         print.accept(div);
         System.out.println("feature01 change 1");
+        System.out.println("feature01 change 2");
 
     }
 
